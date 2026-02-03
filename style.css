@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #E5E5E5;
+    color: #333;
+}
+
+header {
+    background: #0057A0;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+nav {
+    background: #3A7D44;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    padding: 40px;
+    background: white;
+    text-align: center;
+}
+
+.hero button {
+    background: #FF6B00;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+section {
+    padding: 30px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #0057A0;
+}
+
+footer {
+    background: #0057A0;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
